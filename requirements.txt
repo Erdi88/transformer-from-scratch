@@ -1,0 +1,7 @@
+torch>=2.2
+datasets
+tokenizers
+numpy
+matplotlib
+tqdm
+streamlit

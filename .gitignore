@@ -1,0 +1,16 @@
+# Data, checkpoints and tokenizer artefacts
+temp/
+*.pth
+*.pt
+imdb_train/
+imdb_test/
+gooaq_subset/
+*.zip
+*.arrow
+tags
+
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+*:Zone.Identifier
+.DS_Store
